@@ -202,3 +202,8 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
   This product's title contains the word Pack.
 {% endif %}
 ```
+{% endraw %}
+
+## Learn More
+
+For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
