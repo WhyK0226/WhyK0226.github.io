@@ -202,6 +202,3 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
   This product's title contains the word Pack.
 {% endif %}
 ```
-{% endraw %}
-
-## Learn More
